@@ -1,4 +1,4 @@
-baseurl = "https://www.rladiesbucharest.org/IWD/"
+baseurl = "/"
 publishDir = "docs"
 title = "IWD 2020"
 theme = "hugo-creative-portfolio-theme"
