@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://rladies-bucharest.github.io/iwd2020/"
 publishDir = "docs"
 title = "IWD 2020"
 theme = "hugo-creative-portfolio-theme"

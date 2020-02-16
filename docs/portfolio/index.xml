@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on IWD 2020</title>
-    <link>/portfolio/</link>
+    <link>/iwd2020/portfolio/</link>
     <description>Recent content in Portfolios on IWD 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Feb 2020 19:41:01 +0530</lastBuildDate>
     
-	<atom:link href="/portfolio/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/iwd2020/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>ProvocaRe</title>
-      <link>/portfolio/provocare/</link>
+      <link>/iwd2020/portfolio/provocare/</link>
       <pubDate>Sat, 15 Feb 2020 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/provocare/</guid>
+      <guid>/iwd2020/portfolio/provocare/</guid>
       <description>&lt;p&gt;Pentru &lt;strong&gt;Ziua Internationala a Femeilor&lt;/strong&gt;, ne pregatim cu un eveniment care sa incurajeze femeile sa foloseasca R in activitatea de analiza.&lt;/p&gt;</description>
     </item>
     
