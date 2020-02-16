@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/iwd2020/portfolio/prezentare/</loc>
+    <lastmod>2020-02-16T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/iwd2020/portfolio/provocare/</loc>
+    <lastmod>2020-02-15T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/iwd2020/portfolio/grafic/</loc>
     <lastmod>2020-02-15T19:41:01+05:30</lastmod>
   </url>
   
@@ -14,12 +24,12 @@
   
   <url>
     <loc>/iwd2020/</loc>
-    <lastmod>2020-02-15T19:41:01+05:30</lastmod>
+    <lastmod>2020-02-16T19:41:01+05:30</lastmod>
   </url>
   
   <url>
     <loc>/iwd2020/portfolio/</loc>
-    <lastmod>2020-02-15T19:41:01+05:30</lastmod>
+    <lastmod>2020-02-16T19:41:01+05:30</lastmod>
   </url>
   
   <url>
@@ -29,42 +39,10 @@
   
   <url>
     <loc>/iwd2020/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/iwd2020/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/iwd2020/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/iwd2020/post/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/iwd2020/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/iwd2020/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/iwd2020/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>/iwd2020/tags/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
 </urlset>

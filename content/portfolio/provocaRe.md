@@ -2,9 +2,9 @@
 date: "2020-02-15T19:41:01+05:30"
 draft: false
 image: img/portfolio/business-card-26.jpg
-showonlyimage: false
+showonlyimage: true
 title: ProvocaRe
-weight: 1
+weight: 2
 ---
 
 Pentru **Ziua Internationala a Femeilor**, ne pregatim cu un eveniment care sa incurajeze femeile sa foloseasca R in activitatea de analiza.
