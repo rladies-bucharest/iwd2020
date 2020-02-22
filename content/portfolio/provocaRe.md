@@ -17,8 +17,8 @@ Pe parcursul perioadei urmatoare, vom publica aici, pasii necesari pentru a pute
 
 
 > 4 Pasi
-1. Identifici fenomenul/ipoteza/ pe care doresti sa-l expui
-2. Instalezi R
+1. Instalezi R 
+2. Identifici fenomenul/ipoteza/ pe care doresti sa-l expui
 3. Expui vizual folosind R concluzia
 4. Ne trimiti detaliile si graficul
 

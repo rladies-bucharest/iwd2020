@@ -3,7 +3,7 @@ date: "2020-02-15T19:41:01+05:30"
 draft: false
 image: img/portfolio/pie-1.png
 showonlyimage: true
-title: "gRafic"
+title: gRafic
 author: "R Ladies Bucharest"
 weight: 3
 ---
