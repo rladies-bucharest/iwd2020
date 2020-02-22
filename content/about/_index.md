@@ -8,12 +8,10 @@ Sarbatorim **International Women Day** pe 10 Martie 2020 in locatia binecunoscut
 Pregatim o prezentare despre femeile din Romania, o analiza realizata cu R.
 
 
-![This is me][1]
+![R-Ladies-Bucharest vibes](/img/about.jpg)
 
 
 #### Agenda
 
-* Prezentare.
-* Provocare.
-
-[1]: /img/about.jpg
+* [Prezentare](/portfolio/prezentare/)
+* [Provocare](/portfolio/provocare/)  #8rladiesofbucharest

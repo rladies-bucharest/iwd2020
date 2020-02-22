@@ -15,9 +15,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   # Use custom.css for your custom styling
   style = "violet"
   description = "Describe your website"
-  copyright = "&copy;2020 R Ladies Bucharest"
+  copyright = "&copy;2020 <a href=\"https://www.rladiesbucharest.org\">R Ladies Bucharest</a>"
   sidebarAbout = [
-    "powered by R Ladies Bucharest",
+    "powered by <a href=\"https://www.rladiesbucharest.org\">R Ladies Bucharest</a>",
     "Ziua Internationala a Femeilor #EachforEqual #rladiesbucharest",
     "Oportunitate pentru sarbatorirea si constientizarea realizarilor tuturor femeilor din Romania."
   ]

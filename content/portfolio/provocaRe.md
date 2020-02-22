@@ -7,20 +7,23 @@ title: ProvocaRe
 weight: 2
 ---
 
-Pentru **Ziua Internationala a Femeilor**, ne pregatim cu un eveniment care sa incurajeze femeile sa foloseasca R in activitatea de analiza.
+Pentru **Ziua Internațională a Femeilor**, ne dorim un eveniment care să încurajeze femeile să folosească R.
 <!--more-->
 
-> Lansam o **provocaRe** care va completa intalnirea din 10 Martie 2020. 
-Tot ce trebuie sa faci este sa instalezi R si sa ne trimiti un grafic realizat cu R.
+> Lansăm o **provocaRe**. Tot ce trebuie să faci este să instalezi R și să ne trimiți un grafic realizat cu R.
 
-Pe parcursul perioadei urmatoare, vom publica aici, pasii necesari pentru a putea realiza un grafic cu R si pasii de baza.
-
-
-> 4 Pasi
+**4 Pași**
 1. Instalezi R 
-2. Identifici fenomenul/ipoteza/ pe care doresti sa-l expui
-3. Expui vizual folosind R concluzia
-4. Ne trimiti detaliile si graficul
+2. Identifici fenomenul/ipoteza/ pe care dorești să-l expui
+3. Expui vizual concluzia, folosind R
+4. Ne trimiți detaliile și graficul
+
+Graficul se trimite ( fie .Rmd, fie .png) [aici](https://rladies-bucharest.github.io/iwd2020/contact/).
+Ne poți atrage atenția printr-un hashtag **#8rladiesofbucharest** pe facebook sau twitter
+
+Pe parcursul perioadei următoare, vom publica aici sau via social media pașii necesari realizării unui grafic cu R.
+
+*Toate graficele primite vor fi publicate pe site-ul de eveniment, iar participarea implică acordul participanților de a prezenta aceste rezultate ( grafice sau fișiere .Rmd) pe website-ul de eveniment, cât și asocierea cu persoana participantă. Nu ne asumăm responsabilitatea pentru situațiile în care aceste date nu îndeplinesc regulile de conformitate. 
 
 
 
